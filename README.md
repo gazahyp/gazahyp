@@ -12,10 +12,10 @@ that *actually works*, and interfaces that respect your attention.
 
 **[NEXORA](https://github.com/gazahyp/NEXORA)** — a Windows gaming control hub I build solo with **Tauri 2 + Rust + React**.
 It's a real launcher, not a mockup: game discovery across Steam/Epic/Riot/GOG,
-validated one-click launching, live hardware monitoring, an FPS overlay, and
-**Record Studio** (an FFmpeg-backed recorder with NVENC/AMF/QuickSync).
-Ships signed builds with a verified auto-update pipeline — every installer is
-minisign-checked before it touches your machine.
+validated one-click launching, live hardware monitoring, a reversible game
+booster, and a safe system optimizer. Ships signed builds with a verified
+auto-update pipeline — every installer is minisign-checked before it touches
+your machine.
 
 📥 Latest: <https://gazahyp.github.io/NEXORA/>
 
@@ -25,7 +25,7 @@ minisign-checked before it touches your machine.
 | --- | --- |
 | **Languages** | Rust, TypeScript, a bit of Python |
 | **Desktop** | Tauri 2, React, Zustand, Vite |
-| **Systems** | Windows internals, SQLite, FFmpeg, FFprobe, GitHub Actions & Releases |
+| **Systems** | Windows internals, SQLite, GitHub Actions & Releases |
 | **Design** | Adobe Illustrator & the DKV toolkit — typography, layout, brand systems |
 
 ### 📫 Find me
