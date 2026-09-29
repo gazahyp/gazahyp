@@ -19,14 +19,6 @@ minisign-checked before it touches your machine.
 
 📥 Latest: <https://gazahyp.github.io/NEXORA/>
 
-### 🤖 My AI agent fleet
-
-I run a self-hosted fleet of autonomous agents on a phone-turned-server
-(Termux) and my laptop — a WhatsApp bot, a Discord bot, and a desktop agent
-sharing one brain: cron jobs, browser automation, memory sync between three
-machines, and encrypted off-site backups. Documentation is... an ongoing
-adventure.
-
 ### ⚡ Tech I reach for
 
 |  |  |
