@@ -1,59 +1,49 @@
-# Gaza 👋
+<div align="center">
 
-**Building things that feel like magic — mostly in Rust & TypeScript.**
+<img src="assets/hero.svg" width="900" alt="Gaza Ibrahim — Building things that feel like magic, mostly in Rust & TypeScript." />
 
-[![NEXORA](https://img.shields.io/github/v/release/gazahyp/NEXORA?label=NEXORA&logo=windows&logoColor=white&style=flat-square)](https://github.com/gazahyp/NEXORA/releases)
-[![windows](https://img.shields.io/badge/Windows-11-0078D6?logo=windows&logoColor=white&style=flat-square)](https://microsoft.com/windows)
-[![rust](https://img.shields.io/badge/Rust-FDC830?logo=rust&logoColor=black&style=flat-square)](https://rust-lang.org)
-[![typescript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)](https://typescriptlang.org)
-[![illustrator](https://img.shields.io/badge/Illustrator-3300CC?logo=adobeillustrator&logoColor=white&style=flat-square)](https://adobe.com/products/illustrator)
+<br/>
 
-Visual-communication design student from **Batam, Indonesia** — I spend more time with compilers than artboards. Two standards: software that *actually works*, and interfaces that *respect your attention*.
+<!-- Primary action row — for-the-badge, dark labels, neon accents. The release
+     and download badges are LIVE: they follow the NEXORA repo, no hand edits. -->
+<a href="https://gazahyp.github.io/NEXORA/"><img src="https://img.shields.io/badge/DOWNLOAD-NEXORA-0E7490?style=for-the-badge&labelColor=0A0713&logo=windows&logoColor=22D3EE" alt="Download NEXORA" /></a>
+<a href="https://github.com/gazahyp/NEXORA/releases/latest"><img src="https://img.shields.io/github/v/release/gazahyp/NEXORA?style=for-the-badge&label=RELEASE&labelColor=0A0713&color=6D28D9&logo=github&logoColor=A855F7" alt="Latest release" /></a>
+<a href="https://github.com/gazahyp/NEXORA/releases"><img src="https://img.shields.io/github/downloads/gazahyp/NEXORA/total?style=for-the-badge&label=DOWNLOADS&labelColor=0A0713&color=0E7490" alt="Total downloads" /></a>
 
----
+</div>
 
-### 🔭 NEXORA — the thing I'm shipping
+<img src="assets/divider.svg" width="900" alt="" />
 
-<img src="https://raw.githubusercontent.com/gazahyp/NEXORA/main/brand/open-graph.png" width="100%" alt="NEXORA — Windows gaming control hub" />
+## `NEXORA // CONTROL HUB`
 
-A **Windows gaming control hub** I build solo with **Tauri 2 · Rust · React**.
-It's a real launcher, not a mockup:
+<img src="assets/control-hub.svg" width="900" alt="NEXORA control hub: game discovery, hardware monitoring, reversible booster and optimizer, signed auto-update." />
 
-- 🎮 Game discovery across **Steam / Epic / Riot / GOG** with one-click validated launch
-- 📈 Live **hardware monitoring** (CPU, GPU, RAM, temps)
-- 🚀 Reversible **game booster** + safe **system optimizer**
-- 🔐 Signed builds, **minisign-verified auto-update** — every installer checked before it touches your machine
+A **Windows gaming control hub** I build solo with **Tauri 2 · Rust · React** — a real desktop app, not a mockup, and the reason this profile exists.
 
-[![downloads](https://img.shields.io/github/downloads/gazahyp/NEXORA/total?label=downloads&style=flat-square&color=0088CC)](https://gazahyp.github.io/NEXORA/)
-[![latest](https://img.shields.io/github/downloads/gazahyp/NEXORA/latest?label=latest&style=flat-square&color=2EA44F)](https://github.com/gazahyp/NEXORA/releases/latest)
+**[Download it →](https://gazahyp.github.io/NEXORA/)** · [Releases](https://github.com/gazahyp/NEXORA/releases) · [Issue tracker](https://github.com/gazahyp/NEXORA/issues)
 
-📥 **Grab it** → <https://gazahyp.github.io/NEXORA/> · 📦 [Source](https://github.com/gazahyp/NEXORA) · [Release notes](https://github.com/gazahyp/NEXORA/releases) · [Issues](https://github.com/gazahyp/NEXORA/issues)
+<img src="assets/divider.svg" width="900" alt="" />
 
----
+## `LOADOUT`
 
-### ⚡ Stack I reach for
-
-|  |  |
+| | |
 |:--|:--|
-| **Languages** | [![rust](https://img.shields.io/badge/rust-010409?logo=rust&logoColor=FDC830&style=flat-square&labelColor=010409)](https://rust-lang.org) [![typescript](https://img.shields.io/badge/typescript-010409?logo=typescript&logoColor=3178C6&style=flat-square&labelColor=010409)](https://typescriptlang.org) [![python](https://img.shields.io/badge/python-010409?logo=python&logoColor=3776AB&style=flat-square&labelColor=010409)](https://python.org) |
-| **Desktop** | [![tauri 2](https://img.shields.io/badge/tauri--2-010409?logoColor=6A5ACD&style=flat-square&labelColor=010409)](https://tauri.app) [![react](https://img.shields.io/badge/react-010409?logo=react&logoColor=61DAFB&style=flat-square&labelColor=010409)](https://react.dev) [![vite](https://img.shields.io/badge/vite-010409?logo=vite&logoColor=646CFF&style=flat-square&labelColor=010409)](https://vitejs.dev) [![zustand](https://img.shields.io/badge/zustand-010409?style=flat-square&labelColor=010409)](https://zustand.docs.buildwithernest.com) |
-| **Systems** | [![windows](https://img.shields.io/badge/windows-010409?logo=windows&logoColor=0078D6&style=flat-square&labelColor=010409)](https://microsoft.com/windows) [![sqlite](https://img.shields.io/badge/sqlite-010409?logo=sqlite&logoColor=003B57&style=flat-square&labelColor=010409)](https://sqlite.org) [![actions](https://img.shields.io/badge/github--actions-010409?logo=githubactions&logoColor=2088FF&style=flat-square&labelColor=010409)](https://github.com/features/actions) |
-| **Design** | [![illustrator](https://img.shields.io/badge/illustrator-010409?logo=adobeillustrator&logoColor=9999FF&style=flat-square&labelColor=010409)](https://adobe.com/products/illustrator) typography · layout · brand systems |
+| **Runtime** | [![Rust](https://img.shields.io/badge/Rust-141A25?style=flat-square&logo=rust&logoColor=F74C00&labelColor=141A25&color=141A25)](https://www.rust-lang.org) [![TypeScript](https://img.shields.io/badge/TypeScript-141A25?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=141A25&color=141A25)](https://www.typescriptlang.org) [![Python](https://img.shields.io/badge/Python-141A25?style=flat-square&logo=python&logoColor=3776AB&labelColor=141A25&color=141A25)](https://www.python.org) |
+| **Shell** | [![Tauri 2](https://img.shields.io/badge/Tauri%202-141A25?style=flat-square&logo=tauri&logoColor=FFC131&labelColor=141A25&color=141A25)](https://tauri.app) [![React](https://img.shields.io/badge/React-141A25?style=flat-square&logo=react&logoColor=61DAFB&labelColor=141A25&color=141A25)](https://react.dev) [![Vite](https://img.shields.io/badge/Vite-141A25?style=flat-square&logo=vite&logoColor=646CFF&labelColor=141A25&color=141A25)](https://vite.dev) |
+| **Data & shipping** | [![SQLite](https://img.shields.io/badge/SQLite-141A25?style=flat-square&logo=sqlite&logoColor=44A3D9&labelColor=141A25&color=141A25)](https://sqlite.org) [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-141A25?style=flat-square&logo=githubactions&logoColor=2088FF&labelColor=141A25&color=141A25)](https://github.com/features/actions) |
+| **Visual** | [![Illustrator](https://img.shields.io/badge/Illustrator-141A25?style=flat-square&logo=adobeillustrator&logoColor=FF9A00&labelColor=141A25&color=141A25)](https://www.adobe.com/products/illustrator.html) <sub>typography · layout · brand systems</sub> |
 
----
+<img src="assets/divider.svg" width="900" alt="" />
 
-### 📊 GitHub stats
+## `CONNECT`
 
-<details>
-<summary>Click to expand</summary>
+| | |
+|:--|:--|
+| **Project** | [gazahyp.github.io/NEXORA](https://gazahyp.github.io/NEXORA/) |
+| **Issues** | [github.com/gazahyp/NEXORA/issues](https://github.com/gazahyp/NEXORA/issues) |
+| **Contact** | <sub>`TODO` — opening an issue is the working channel today</sub> |
+| **Elsewhere** | <sub>`TODO` — nothing published yet, no links invented</sub> |
 
-<table>
-  <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=gazahyp&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" /></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gazahyp&layout=compact&theme=tokyonight&langs_count=5" /></td>
-  </tr>
-</table>
+<img src="assets/divider.svg" width="900" alt="" />
 
-</details>
-
-<p align="right"><sub>⚡ <i>if it isn't shipped, it isn't done.</i></sub></p>
+<img src="assets/footer.svg" width="900" alt="if it isn't shipped, it isn't done." />
