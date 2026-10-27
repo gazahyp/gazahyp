@@ -6,9 +6,9 @@
 
 <!-- Primary action row — for-the-badge, dark labels, neon accents. The release
      and download badges are LIVE: they follow the NEXORA repo, no hand edits. -->
-<a href="https://gazahyp.github.io/NEXORA/"><img src="https://img.shields.io/badge/DOWNLOAD-NEXORA-22D3EE?style=for-the-badge&labelColor=0A0713&logo=windows&logoColor=22D3EE" alt="Download NEXORA" /></a>
-<a href="https://github.com/gazahyp/NEXORA/releases/latest"><img src="https://img.shields.io/github/v/release/gazahyp/NEXORA?style=for-the-badge&label=RELEASE&labelColor=0A0713&color=A855F7&logo=github&logoColor=A855F7" alt="Latest release" /></a>
-<a href="https://github.com/gazahyp/NEXORA/releases"><img src="https://img.shields.io/github/downloads/gazahyp/NEXORA/total?style=for-the-badge&label=DOWNLOADS&labelColor=0A0713&color=22D3EE" alt="Total downloads" /></a>
+<a href="https://gazahyp.github.io/NEXORA/"><img src="https://img.shields.io/badge/DOWNLOAD-NEXORA-0E7490?style=for-the-badge&labelColor=0A0713&logo=windows&logoColor=22D3EE" alt="Download NEXORA" /></a>
+<a href="https://github.com/gazahyp/NEXORA/releases/latest"><img src="https://img.shields.io/github/v/release/gazahyp/NEXORA?style=for-the-badge&label=RELEASE&labelColor=0A0713&color=6D28D9&logo=github&logoColor=A855F7" alt="Latest release" /></a>
+<a href="https://github.com/gazahyp/NEXORA/releases"><img src="https://img.shields.io/github/downloads/gazahyp/NEXORA/total?style=for-the-badge&label=DOWNLOADS&labelColor=0A0713&color=0E7490" alt="Total downloads" /></a>
 
 </div>
 
